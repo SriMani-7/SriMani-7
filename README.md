@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SriMani-7
 - 👀 I’m interested in ... Java, android app development and JavaScript
-- 🌱 I’m currently learning ... Kotlin
+- 🌱 I’m currently learning ... Kotlin, Spring framework
 - 💞️ I’m looking to collaborate on ... Android app projects
 
 <!---
