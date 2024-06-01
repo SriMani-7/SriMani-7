@@ -8,11 +8,10 @@ SriMani-7/SriMani-7 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Stats
-<span>
-<img src = "https://github-readme-stats.vercel.app/api?username=SriMani-7&show_icons=true&border_radius=20&include_all_commits=true"/>
+## Github Stats
+
+<img src = "https://github-readme-stats.vercel.app/api?username=SriMani-7&show_icons=true&border_radius=20&include_all_commits=true"/>  
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SriMani-7&layout=compact&langs_count=10&border_radius=20" />
-<span/>
 
 ### Stackoverflow account
 
